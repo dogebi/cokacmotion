@@ -4,7 +4,7 @@
 영상을 만드는 AI 에이전트가 표현 기법과 기술적 내용을 배우도록 Claude Code 스킬로 묶었다.
 스킬 안에 데모마다 구현 노트(NOTES.md), 소스, 그림이 모두 들어 있어 네트워크 없이 쓴다.
 
-**▶ 브라우저에서 바로 보기: [kstost.github.io/cokacmotion](https://kstost.github.io/cokacmotion/)** — 설치 없이 166편을 모두 재생해 볼 수 있다.
+**▶ 브라우저에서 바로 보기: [dogebi.github.io/cokacmotion](https://dogebi.github.io/cokacmotion/)** — 설치 없이 166편을 모두 재생해 볼 수 있다. (원본: [kstost.github.io/cokacmotion](https://kstost.github.io/cokacmotion/))
 
 > A Claude Code skill: 166 short web-graphics demos, one technique each, with implementation notes, full source and stills — for agents that make videos.
 
