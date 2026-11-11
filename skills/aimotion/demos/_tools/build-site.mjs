@@ -247,7 +247,6 @@ ${g.demos.map(card).join('\n')}
 <p>${esc(index.principle)}</p>
 <p>모든 데모는 시각 t의 순수 함수로 그린다. 주소에 <code>?t=3.2</code>를 붙이면 그 시각부터 재생한다. 무거운 셰이더·시뮬레이션 데모는 기기 성능에 따라 프레임이 떨어질 수 있다.</p>
 <p>MIT · 데모가 쓰는 라이브러리와 글꼴은 각자의 라이선스를 따른다 (각 <code>node_modules/&lt;패키지&gt;/</code> 안).</p>
-<p>이 사이트는 <a href="${UPSTREAM_URL}">kstost/cokacmotion</a>(MIT, © 2026 kstost)의 미러이며, 저장소는 <a href="${REPO_URL}">${REPO_URL.replace('https://github.com/', '')}</a>다.</p>
 </footer>
 <script>
 const q = document.getElementById('q'), cards = [...document.querySelectorAll('.card')], secs = [...document.querySelectorAll('main section')];
