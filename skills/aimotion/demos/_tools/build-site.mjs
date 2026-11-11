@@ -16,7 +16,6 @@ const NM = path.join(DEMOS, 'node_modules');
 const OUT = path.resolve(process.argv[2] || path.join(REPO, '_site'));
 const MARK = '.aimotion-site';
 const REPO_URL = 'https://github.com/dogebi/cokacmotion';
-const UPSTREAM_URL = 'https://github.com/kstost/cokacmotion';
 const NOTES_URL = (id) => `${REPO_URL}/blob/main/skills/aimotion/demos/${id}/NOTES.md`;
 
 const index = JSON.parse(fs.readFileSync(path.join(SKILL, 'index.json'), 'utf8'));
